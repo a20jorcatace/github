@@ -1,0 +1,6 @@
+site_name: Funcionament
+site_url: 
+nav:
+ - Home: index.md
+ - Git Clone: clone.md
+ - Git Add: add.md

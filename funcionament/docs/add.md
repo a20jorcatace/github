@@ -1,0 +1,7 @@
+#Git Add
+
+Com funciona Git Add?
+
+##Funcionament
+
+The git add command adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit. However, git add doesn't really affect the repository in any significant way—changes are not actually recorded until you run git commit.
